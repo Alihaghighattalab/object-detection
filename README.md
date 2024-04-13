@@ -6,7 +6,7 @@
 # 1: Clone the repository
 - git clone https://github.com/amogh-w/React-Tensorflow-Object-Detection
 # 2: Install dependencies
-- npm install / yarn add
+- npm install / yarn
 # 3: Run the development server
 - npm run dev => This command launches a local development server at (http://localhost:5173/). You can view the application by opening this address in your browser.
 

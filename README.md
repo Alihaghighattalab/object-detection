@@ -3,11 +3,11 @@
 - This repository contains a React.js project that utilizes Tensorflow.js to perform Object Detection within the browser.
 # Usage
 - To utilize this project, follow these steps:
-# 1:Clone the repository
+# 1: Clone the repository
 - git clone https://github.com/amogh-w/React-Tensorflow-Object-Detection
-# 2:Install dependencies
+# 2: Install dependencies
 - npm install / yarn add
-# 3:Run the development server
+# 3: Run the development server
 - npm run dev => This command launches a local development server at (http://localhost:5173/). You can view the application by opening this address in your browser.
 
 

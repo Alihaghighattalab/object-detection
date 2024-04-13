@@ -9,4 +9,22 @@ This repository empowers you to leverage the power of TensorFlow.js within a Rea
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)  # Replace with your details
+   git clone [https://github.com/Alihaghighattalab/object-detection.git]
+
+2. **Install Dependencies:**
+
+   ```bash
+   npm install  # or yarn
+   
+3. **Run the Development Server:**
+   ```bash
+   npm run dev  # or yarn dev
+
+**What is Object Detection?**
+Imagine a world where computers can "see" like humans, identifying and pinpointing objects in images and videos. Object detection, a core branch of artificial intelligence, makes this vision a reality.
+By analyzing visual data, object detection algorithms can accurately locate and classify objects, even amidst variations in size, shape, color, and background complexity. This technology finds applications in various domains, including:
+- Robotics: Guiding robots to navigate environments safely and interact with objects.
+- Video Surveillance: Automating anomaly detection and security monitoring.
+- Medical Diagnosis: Assisting medical professionals in identifying abnormalities in medical scans.
+- Self-Driving Cars: Enabling autonomous vehicles to perceive and react to their surroundings.
+
